@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aws-agent:
+  - apiVersion: v2
+    appVersion: 1.2.6
+    created: "2025-09-18T09:42:53.896506-07:00"
+    description: A prometheus exporter that gathers metrics from AWS services.
+    digest: ce544ee3835a0a190813a415826afece2789ac30b0ed8d5b00c6740e3ed02216
+    name: aws-agent
+    type: application
+    urls:
+    - https://heidihe2024.github.io/helm-charts/aws-agent-0.1.15.tgz
+    version: 0.1.15
+generated: "2025-09-18T09:42:53.895874-07:00"
