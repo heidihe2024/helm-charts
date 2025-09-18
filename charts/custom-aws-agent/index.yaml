@@ -3,12 +3,12 @@ entries:
   aws-agent:
   - apiVersion: v2
     appVersion: 1.2.6
-    created: "2025-09-18T09:14:33.35712-07:00"
+    created: "2025-09-18T09:22:44.488599-07:00"
     description: A prometheus exporter that gathers metrics from AWS services.
     digest: 8dd707cf80a2d5392ef4d0a9e9d192c06e2f0c721805cb5c0eca6afb44d591e1
     name: aws-agent
     type: application
     urls:
-    - https://heidih.github.io/helm-chart/custom-aws-agent/aws-agent-0.1.15.tgz
+    - https://heidih.github.io/helm-charts/charts/custom-aws-agent/aws-agent-0.1.15.tgz
     version: 0.1.15
-generated: "2025-09-18T09:14:33.356511-07:00"
+generated: "2025-09-18T09:22:44.488121-07:00"
